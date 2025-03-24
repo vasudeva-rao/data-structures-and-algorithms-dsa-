@@ -2,11 +2,11 @@ DSA Practice in JavaScript
 Welcome to the DSA Practice in JavaScript repository! 🚀 This repository contains solutions to various Data Structures and Algorithms (DSA) problems implemented in JavaScript.
 
 ### 📌 Table of Contents
-Getting Started
-Topics Covered
-How to Use
-Contributing
-Resources
+Getting Started\n
+Topics Covered\n
+How to Use\n
+Contributing\n
+Resources\n
 
 ### 🚀 Getting Started
 
