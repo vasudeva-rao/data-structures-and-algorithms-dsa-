@@ -1,60 +1,65 @@
 DSA Practice in JavaScript
 Welcome to the DSA Practice in JavaScript repository! 🚀 This repository contains solutions to various Data Structures and Algorithms (DSA) problems implemented in JavaScript.
 
+
 ### 📌 Table of Contents
-Getting Started
+• Getting Started
 
-Topics Covered
+• Topics Covered
 
-How to Use
+• How to Use
 
-Contributing
+• Contributing
 
-Resources
+• Resources
+
 
 ### 🚀 Getting Started
 
-Prerequisites
+<strong>Prerequisites</strong>
 
 Make sure you have the following installed:
 
-Node.js (for running JavaScript files)
+• Node.js (for running JavaScript files)
 
-A code editor (VS Code recommended)
+• A code editor (VS Code recommended)
 
-Clone the Repository
+• Clone the Repository
 
-Go to GitHub and navigate to the repository.
+• Go to GitHub and navigate to the repository.
 
+• Click on "Code" and copy the repository link.
 
-Click on "Code" and copy the repository link.
+• Open a terminal and run:
 
-Open a terminal and run:
-
+```
 git clone https://github.com/vasudeva-rao/dsa-js-practice.git
+```
 
-cd dsa-js-practice
+• cd dsa-js-practice
+
 
 ### 📚 Topics Covered
 This repository includes solutions for problems in:
 
-Arrays
+• Arrays
 
-Strings
+• Strings
 
-Linked Lists
+• Linked Lists
 
-Stacks & Queues
+• Stacks & Queues
 
-Recursion
+• Recursion
 
-Sorting & Searching
+• Sorting & Searching
 
-Trees & Graphs
+• Trees & Graphs
 
-Dynamic Programming
+• Dynamic Programming
 
-Bit Manipulation
+• Bit Manipulation
+
 
 Run the JavaScript file using Node.js:
 
@@ -62,29 +67,31 @@ node arrays/reverseArray.js
 
 Modify the code and practice with different test cases.
 
+
 ### 🤝 Contributing
 Contributions are welcome! Follow these steps:
 
-Fork the repository
+• Fork the repository
 
-Create a new branch: git checkout -b feature-new-solution
+• Create a new branch: git checkout -b feature-new-solution
 
-Commit changes: git commit -m 'Added new solution for XYZ problem'
+• Commit changes: git commit -m 'Added new solution for XYZ problem'
 
-Push changes: git push origin feature-new-solution
+• Push changes: git push origin feature-new-solution
 
-Create a Pull Request
+• Create a Pull Request
+
 
 ### 📚 Resources
 Here are some useful resources for DSA in JavaScript:
 
-Eloquent JavaScript
+• Eloquent JavaScript
 
-JavaScript Algorithms and Data Structures
+• JavaScript Algorithms and Data Structures
 
-LeetCode
+• LeetCode
 
-GeeksforGeeks
+• GeeksforGeeks
 
 
 Happy Coding! 🚀
