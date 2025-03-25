@@ -36,8 +36,7 @@ Welcome to the DSA Practice in JavaScript repository! 🚀 This repository conta
   git clone https://github.com/vasudeva-rao/data-structures-and-algorithms-dsa-
   ```
   
-  • cd dsa-js-practice
-
+  • cd data-structures-and-algorithms-dsa-
 
 ### 📚 Topics Covered
   This repository includes solutions for problems in:
