@@ -33,7 +33,7 @@ Welcome to the DSA Practice in JavaScript repository! 🚀 This repository conta
   • Open a terminal and run:
   
   ```
-  git clone https://github.com/vasudeva-rao/dsa-js-practice.git
+  git clone https://github.com/vasudeva-rao/data-structures-and-algorithms-dsa-
   ```
   
   • cd dsa-js-practice
